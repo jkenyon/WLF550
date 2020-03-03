@@ -6,7 +6,7 @@ March 03, 2020
 
 
 Start the workshop server below:<br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jkenyon/coding-concepts/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jkenyon/WLF550/master)
 
 
 
